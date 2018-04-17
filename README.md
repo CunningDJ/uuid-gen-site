@@ -2,7 +2,7 @@
 This is a single page site I made for fun, that generates 50-character uuid's for you.
 
 ## Dependencies
-* NodeJS
+* [NodeJS](https://nodejs.org/en/download/)
 * npm (comes with Node install)
 
 ## Instructions
